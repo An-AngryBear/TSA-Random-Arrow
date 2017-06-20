@@ -8,6 +8,5 @@ window.addEventListener("click", function() {
 		container.classList.add("left-arrow")
 	} else {
 		container.classList.add("right-arrow")
-
 	}
 })
