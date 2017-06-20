@@ -1,0 +1,25 @@
+html {
+	background-color: #775787;
+}
+div {
+	height: 100%;
+	min-height: 500px;
+}
+
+
+.right-arrow {
+	background: url(img/arrowright.png) no-repeat center center fixed;
+	background-size: contain;
+}
+
+
+.left-arrow {
+	background: url(img/arrow.png) no-repeat center center fixed;
+	background-size: contain;
+}
+
+h1 {
+	font-family: "EB Garamond", Garamond, serif;
+	font-weight: 300;
+	text-align: center;
+}
